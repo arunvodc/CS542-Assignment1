@@ -8,7 +8,7 @@ Contributors:
 
 2. Arun Vadivel
 
-Please read the User Guidelines before executing the program.
+
 
 1)	ProjectDBMS.zip contains the UI application.
 
@@ -18,3 +18,4 @@ Please read the User Guidelines before executing the program.
 
 4)  Shell.zip contains the requires files to run the shell program to view cs542.db.
 
+Please read the User Guidelines.docx before executing the program.
