@@ -1,15 +1,10 @@
-# CS542 - Internals Programming Option
-
-Assignment 1 - Value Store
+# CS542 - Internals Programming Option | Assignment 1 - Value Store
 
 Contributors:
 
 1. Neha Satish Mahajan
 
 2. Arun Vadivel
-
-
-
 
 1)	ProjectDBMS.zip contains the UI application.
 
