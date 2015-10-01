@@ -5,7 +5,7 @@ Assignment 1 - Value Store
 Contributors:
 
 1. Neha Satish Mahajan
-2. 
+
 2. Arun Vadivel
 
 Please read the User Guidelines before executing the program.
