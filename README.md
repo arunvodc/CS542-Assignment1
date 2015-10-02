@@ -14,4 +14,6 @@ Contributors:
 
 4)  Shell.zip contains the requires files to run the shell program to view cs542.db.
 
+5) The zip files needs to be extracted and imported into Eclipse to execute the java programs.
+
 Please read the User Guidelines.docx before executing the program.
